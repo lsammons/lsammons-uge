@@ -1,6 +1,9 @@
 histor > moving_around.txt
 history | less
+
+# checking php location
 which php
+
 history
 bash
 help syntax
