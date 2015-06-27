@@ -1,0 +1,819 @@
+histor > moving_around.txt
+history | less
+which php
+history
+bash
+help syntax
+open example.txt
+ls
+man useradd
+man user
+man add-user
+sudo add-user
+whoami
+complete -c adduser -l conf --description 'Specify config file" -r
+
+≈qq['
+adduser
+man
+man add
+man sudo
+man adduser
+clear
+cd
+cd ../..
+cd ../
+cd ...
+cd Documents/
+ls -rt /
+ls -l
+ls ~
+cd simple-todos/
+cd ~
+cd Plug-In\ Settings/
+cd /Plug-In \ Settings
+cd Music/Audio\ Music\ Apps/
+cd laura/
+cd ..
+pwd
+cd Audio\ Music\ Apps/
+ls -lr
+cd Music/
+pwd /users/laura/Movies
+cd Movies/
+cd Applications/
+cat Dreamweaver.log
+cd /Users/laura
+man ls
+cd /
+RTFM
+man git
+man -a
+man fish
+man less
+ls -rt
+ls -r
+ls -l -t
+ls -t
+cd /
+
+# Sudo not working - password not set?
+sudo
+
+cd n
+cd /Users
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email
+git config --global user.name
+git config -- global user.email
+sudo adduser fidel
+adduser fidel
+sudo adduser amy
+whereis
+cd doc/
+cd part1/
+cd console/
+cd notes/
+mkdir -p documents/notes/console/part1/doc
+mv Documents/example.txt .
+ls Documents/
+mv example.txt Documents/
+mv example.txt ..
+mv example.txt .
+nano example.txt
+touch example.txt
+cat example.txt
+less example.txt
+brew update
+brew doctor
+uname
+nano course-description.txt
+touch course-description.txt
+cd foundations-2-js-codefellows/
+git init foundations-2-js-codefellows
+nano todo.txt
+touch todo.txt
+touch 01-classnotes.txt
+cd unix-git-codefellows-20150627/
+git init unix-git-codefellows-20150627
+nano unix-shortcuts.txt
+touch unix-shortcuts.txt
+touch README.md
+cd git-basics_console-basics/
+git init git-basics_console-basics
+nano questions.txt
+touch questions.txt
+cd git-basics_treehouse/
+cd git
+touch 2ch_Getting-Started-With-Git.txt
+touch 1ch_Why-Version-Control-Matters.txt
+touch git-shortcuts.txt
+touch 6ch_Workflows.txt
+touch 5ch_Working-With-Remote-Repositories.txt
+git commit -a -m "Resolved conflicts in file1"
+git add file1
+nano file1
+git merge foo_feature
+git branch
+git commit -a -m "Added some british to file1"
+git checkout master
+git commit -a -m "Added some slang to file"
+git checkout foo_feature
+git log
+git merge foo_feature
+cd fidels_project/
+touch 4ch_Merging.txt
+git branch -D bar_feature
+git checkout -b bar_feature
+git checkout foo_feature
+git commit -a -m "Getting started on the foo feature."
+nano file3
+touch file3
+git status
+git branch foo_feature
+nano
+nano 3ch_Branches.txt
+open 3ch_Branches.txt
+touch 3ch_Branches.txt
+nano README.md
+ls -a
+rmdir /treehouse_git-basics/.git
+cd .git/
+rmdir -R .git/
+rmdir .git
+rm .git/
+cd treehouse_git-basics/
+rmdir treehouse_git-basics/
+rm treehouse_git-basics/
+rmdir -R treehouse_git-basics/
+git init git-basics_treehouse
+git init treehouse_git-basics
+mkdir treehouse_git-basics
+git diff a2737 3aec9
+cat file2
+cat file1
+git checkout a2737
+git commit -m "Changes to file2"
+git add file2
+git commit -m "Changes to file1"
+git commit file1
+nano file2
+git commit -m "Add new project files"
+git add file3
+touch file2
+touch file1
+git commit -a -m "MeteorJS 20150625 Meetup Notes"
+git add meteorJS-20150626.txt
+get add meteorJS-20150626.txt
+nano meteorJS-20150626.txt
+rm meteorJS-20150626
+nano meteorJS-20150626
+touch meteorJS-20150626
+git commit
+git add README.md
+cd meetup_notes/
+git init meetup_notes
+pws
+git commit -a -m "Added project mission statement to README file."
+nano README
+cat README
+cd git/
+cat .profile
+cat .bash_profile
+nano .bash_profile
+nano .bash_p
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+help export
+x HELLOWORLD
+-export HELLOWORLD
+-x HELLOWORLD "hi fidel i love you"
+export HELLOWORLD "hi world"
+echo $HELLOWORLD
+set HELLOWORLD "hello fidel world!"
+echo $MESSAGE
+echo $M
+echo
+set MESSAGE "hello fidel"
+set MESSAGE hello
+help set
+MESSAGE="hello fidel"
+$MESSAGE
+set MESSAGE
+set MESSAGE=hi
+set MESSAGE="hello fidel!"
+MESS="hi"
+env
+MESSAGE ="hello fidel!"
+exit
+ba
+bash
+echo $PS1
+echo PS1
+cd $HOME
+cd Library/
+echo $HOME
+echo fidel
+git config --global user.email 'lsammons@gmail.com'
+git configgit config --global user.email 'lsammons@gmail.com'
+git config --global user.name 'Laura Sammons'
+git --version
+brew upgrade git
+brew update git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+ps aux | grep "top"
+kill 90031
+top
+ps
+kill 84389
+kill 84381
+kill pid 84381
+ps aux
+cd .
+mkdir Warren
+mkdir DC
+mkdir Marvel
+cd Publisher/
+cd Comics/
+mkdir Comics/Publisher
+mv comics Comics
+cd Projects/
+ls Projects/
+mv comics Projects
+mkdir Projects
+mkdir comics
+cd LauraSammons/
+ls LauraSammons/
+ls WebEx/
+~
+ls part3
+ls part2
+ls part1
+mv textfile3.txt notes/part3
+mkdir notes/part3
+ls notes/
+ls notes/part2
+mv textfile2.txt notes/part2
+cd textfile2.txt notes/part2
+mkdir notes/part2
+ls notes/part1/
+mv textfile1.txt notes/part1/
+ls notes
+mkdir -p notes/part1
+mkdir -p /notes/part1
+cat textfile1.txt
+cat textfile3.txt
+cat textfile2.txt
+cp textfile3.txt textfile2.txt
+mv textfile2.txt textfile3.txt
+cd ExtraCredit/
+mv textfile1.txt ExtraCredit/
+mkdir ExtraCredit
+ls TestDocs2/notes/console/part1/
+ls TestDocs2/notes/console
+ls TestDocs2/notes
+ls TestDocs2/
+mkdir -p TestDocs2/notes/console/part1
+cat console-test.txt
+rm -r TestDocs3
+rm TestDocs3
+ls TestDocs3
+ls TestDocs2
+cp -r TestDocs2 TestDocs3
+mv hello3.txt TestDocs2/
+mv TestDocs2/hello3.txt .
+me hello3.txt TestDocs2/
+mv TestDocs TestDocs2
+nano hello3.txt
+cat hello3.txt
+rm Documents
+cd Documents
+ls TestDocs/
+mv TestDocs/hello2.txt Documents
+mv hello2.txt TestDocs/
+mv ..hello2.txt TestDocs/
+mv ..hello2.txt
+cd TestDocs/
+mkdir TestDocs
+cat hello2.txt
+mv hello2.txt ..
+mv documents hello2.txt
+mv hello2.txt documents
+mv hello2.txt Documents/hello3.txt
+cd WebEx
+ls Software
+ls WebEx
+mv hi.txt WebEx/hello2.txt
+cat hi.txt
+mv WebEx/hi.txt .
+mv hi.txt WebEx/
+.
+..
+mv hi.txt ..
+cat hi.txt
+less hi.txt
+nano hi.txt
+mv hello.txt hi.txt
+nano hello.txt
+nano console-test.txt
+less console-test.txt
+cd Version-Control/
+/Applications/Adobe\ Illustrator\ CC\ 2014/Plug-ins.localized/Illustrator\ Filters.localized/Pathfinder.aip/Contents/MacOS/Pathfinder ; exit;
+ping 10.236.194.99
+ping 10.226.37.194
+\curl -L https://get.rvm.io | bash -s stable
+git config -l
+git config --global user.email "lsammons@gmail.com"
+git config --global user.name "Laura Sammons"
+brew install git
+brew -v
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+jot - 1 1000
+jot - 1 25
+ruby
+rails -v
+sudo gem install rails
+ruby -v
+gem install rails
+jsc
+npm -v
+node -v
+make test.js
+open -e test.js
+node
+cat test.js
+open -e ~/.profile
+touch ~/.profile
+alias jsc='/System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc'
+.profile
+exit;
+1+1
+Lala;
+var Lala = "Laura";
+alias jsc="/System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc'
+cd jsc
+cd Resources/
+cd Current
+cd Versions/
+cd JavaScriptCore.framework/
+cd Frameworks/
+cd System/
+alias jsc ='System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc'
+sudo /usr/local/zend/bin/uninstall.sh
+sudo /usr/local/zend/bin/zendctl.sh start-apache
+sudo /usr/local/zend/mysql/bin/mysql.server stop
+/usr/local/zend/bin/zendctl.sh stop
+sudo /usr/local/zend/bin/zendctl.sh stop
+sudo /usr/local/zend/bin/zendctl.sh start
+/usr/local/zend/bin/zendctl.sh start
+sudo /usr/local/zend/mysql/bin/mysql.server start
+file /Users/laura/Pictures/Movie_Cox_Family_Band_20140624/MVI_9440.MOV
+file /Volumes/wwwROOTLL1-1/video/quality-and-compliance/Millipore-Water-System-How-it-Works.mp4
+file /Users/laura/Documents/dev/07-July/16-Wed/Millipore-Water-System-Maintenance.MOV
+ssh weblala@lsammons.com
+system_profiler SPApplicationsDataType
+ant
+ant -v
+ant-version
+git init
+cd H5BP-downloaded-via-Git/
+mkdir H5BP-downloaded-via-Git
+sass --update styles.scss
+cd Ch1/
+cd /usr/local/zend/apache2/htdocs/
+sass -v
+sudo gem install sass
+gem install sass
+npm install -g less
+sudo /Library/StartupItems/ZendServer_init/zendctl.sh restart
+sudo ln -s /usr/local/zend/bin/zendctl.sh ./
+sudo rm zendctl.sh
+cd /Library/StartupItems/ZendServer_init/
+sudo nano /usr/local/zend/bin/zendctl.sh
+cd bin
+cd zend
+cd /usr/local
+sudo nano /usr/local/zend/bin/zendct1.sh
+phpinfo();
+cd /usr/bin/php
+ls unicorn_cupcakes.txt
+ls moving_around.txt
+ls
+less moving_around.txt
+history > moving_around.txt
+histor > moving_around.txt
+history | less
+which php
+history
+bash
+help syntax
+open example.txt
+man useradd
+man user
+man add-user
+sudo add-user
+whoami
+complete -c adduser -l conf --description 'Specify config file" -r
+
+≈qq['
+adduser
+man
+man add
+man sudo
+man adduser
+clear
+cd
+cd ../..
+cd ../
+cd ...
+cd Documents/
+ls -rt /
+ls -l
+ls ~
+cd simple-todos/
+cd ~
+cd Plug-In\ Settings/
+cd /Plug-In \ Settings
+cd Music/Audio\ Music\ Apps/
+cd laura/
+cd ..
+pwd
+cd Audio\ Music\ Apps/
+ls -lr
+cd Music/
+pwd /users/laura/Movies
+cd Movies/
+cd Applications/
+cat Dreamweaver.log
+cd /Users/laura
+man ls
+cd /
+RTFM
+man git
+man -a
+man fish
+man less
+ls -rt
+ls -r
+ls -l -t
+ls -t
+cd /
+sudo
+cd n
+cd /Users
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email
+git config --global user.name
+git config -- global user.email
+sudo adduser fidel
+adduser fidel
+sudo adduser amy
+whereis
+cd doc/
+cd part1/
+cd console/
+cd notes/
+mkdir -p documents/notes/console/part1/doc
+mv Documents/example.txt .
+ls Documents/
+mv example.txt Documents/
+mv example.txt ..
+mv example.txt .
+nano example.txt
+touch example.txt
+cat example.txt
+less example.txt
+brew update
+brew doctor
+uname
+nano course-description.txt
+touch course-description.txt
+cd foundations-2-js-codefellows/
+git init foundations-2-js-codefellows
+nano todo.txt
+touch todo.txt
+touch 01-classnotes.txt
+cd unix-git-codefellows-20150627/
+git init unix-git-codefellows-20150627
+nano unix-shortcuts.txt
+touch unix-shortcuts.txt
+touch README.md
+cd git-basics_console-basics/
+git init git-basics_console-basics
+nano questions.txt
+touch questions.txt
+cd git-basics_treehouse/
+cd git
+touch 2ch_Getting-Started-With-Git.txt
+touch 1ch_Why-Version-Control-Matters.txt
+touch git-shortcuts.txt
+touch 6ch_Workflows.txt
+touch 5ch_Working-With-Remote-Repositories.txt
+git commit -a -m "Resolved conflicts in file1"
+git add file1
+nano file1
+git merge foo_feature
+git branch
+git commit -a -m "Added some british to file1"
+git checkout master
+git commit -a -m "Added some slang to file"
+git checkout foo_feature
+git log
+git merge foo_feature
+cd fidels_project/
+touch 4ch_Merging.txt
+git branch -D bar_feature
+git checkout -b bar_feature
+git checkout foo_feature
+git commit -a -m "Getting started on the foo feature."
+nano file3
+touch file3
+git status
+git branch foo_feature
+nano
+nano 3ch_Branches.txt
+open 3ch_Branches.txt
+touch 3ch_Branches.txt
+nano README.md
+ls -a
+rmdir /treehouse_git-basics/.git
+cd .git/
+rmdir -R .git/
+rmdir .git
+rm .git/
+cd treehouse_git-basics/
+rmdir treehouse_git-basics/
+rm treehouse_git-basics/
+rmdir -R treehouse_git-basics/
+git init git-basics_treehouse
+git init treehouse_git-basics
+mkdir treehouse_git-basics
+git diff a2737 3aec9
+cat file2
+cat file1
+git checkout a2737
+git commit -m "Changes to file2"
+git add file2
+git commit -m "Changes to file1"
+git commit file1
+nano file2
+git commit -m "Add new project files"
+git add file3
+touch file2
+touch file1
+git commit -a -m "MeteorJS 20150625 Meetup Notes"
+git add meteorJS-20150626.txt
+get add meteorJS-20150626.txt
+nano meteorJS-20150626.txt
+rm meteorJS-20150626
+nano meteorJS-20150626
+touch meteorJS-20150626
+git commit
+git add README.md
+cd meetup_notes/
+git init meetup_notes
+pws
+git commit -a -m "Added project mission statement to README file."
+nano README
+cat README
+cd git/
+cat .profile
+cat .bash_profile
+nano .bash_profile
+nano .bash_p
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+help export
+x HELLOWORLD
+-export HELLOWORLD
+-x HELLOWORLD "hi fidel i love you"
+export HELLOWORLD "hi world"
+echo $HELLOWORLD
+set HELLOWORLD "hello fidel world!"
+echo $MESSAGE
+echo $M
+echo
+set MESSAGE "hello fidel"
+set MESSAGE hello
+help set
+MESSAGE="hello fidel"
+$MESSAGE
+set MESSAGE
+set MESSAGE=hi
+set MESSAGE="hello fidel!"
+MESS="hi"
+env
+MESSAGE ="hello fidel!"
+exit
+ba
+bash
+echo $PS1
+echo PS1
+cd $HOME
+cd Library/
+echo $HOME
+echo fidel
+git config --global user.email 'lsammons@gmail.com'
+git configgit config --global user.email 'lsammons@gmail.com'
+git config --global user.name 'Laura Sammons'
+git --version
+brew upgrade git
+brew update git
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew info fish
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+ps aux | grep "top"
+kill 90031
+top
+ps
+kill 84389
+kill 84381
+kill pid 84381
+ps aux
+cd .
+mkdir Warren
+mkdir DC
+mkdir Marvel
+cd Publisher/
+cd Comics/
+mkdir Comics/Publisher
+mv comics Comics
+cd Projects/
+ls Projects/
+mv comics Projects
+mkdir Projects
+mkdir comics
+cd LauraSammons/
+ls LauraSammons/
+ls WebEx/
+~
+ls part3
+ls part2
+ls part1
+mv textfile3.txt notes/part3
+mkdir notes/part3
+ls notes/
+ls notes/part2
+mv textfile2.txt notes/part2
+cd textfile2.txt notes/part2
+mkdir notes/part2
+ls notes/part1/
+mv textfile1.txt notes/part1/
+ls notes
+mkdir -p notes/part1
+mkdir -p /notes/part1
+cat textfile1.txt
+cat textfile3.txt
+cat textfile2.txt
+cp textfile3.txt textfile2.txt
+mv textfile2.txt textfile3.txt
+cd ExtraCredit/
+mv textfile1.txt ExtraCredit/
+mkdir ExtraCredit
+ls TestDocs2/notes/console/part1/
+ls TestDocs2/notes/console
+ls TestDocs2/notes
+ls TestDocs2/
+mkdir -p TestDocs2/notes/console/part1
+cat console-test.txt
+rm -r TestDocs3
+rm TestDocs3
+ls TestDocs3
+ls TestDocs2
+cp -r TestDocs2 TestDocs3
+mv hello3.txt TestDocs2/
+mv TestDocs2/hello3.txt .
+me hello3.txt TestDocs2/
+mv TestDocs TestDocs2
+nano hello3.txt
+cat hello3.txt
+rm Documents
+cd Documents
+ls TestDocs/
+mv TestDocs/hello2.txt Documents
+mv hello2.txt TestDocs/
+mv ..hello2.txt TestDocs/
+mv ..hello2.txt
+cd TestDocs/
+mkdir TestDocs
+cat hello2.txt
+mv hello2.txt ..
+mv documents hello2.txt
+mv hello2.txt documents
+mv hello2.txt Documents/hello3.txt
+cd WebEx
+ls Software
+ls WebEx
+mv hi.txt WebEx/hello2.txt
+cat hi.txt
+mv WebEx/hi.txt .
+mv hi.txt WebEx/
+.
+..
+mv hi.txt ..
+cat hi.txt
+less hi.txt
+nano hi.txt
+mv hello.txt hi.txt
+nano hello.txt
+nano console-test.txt
+less console-test.txt
+cd Version-Control/
+/Applications/Adobe\ Illustrator\ CC\ 2014/Plug-ins.localized/Illustrator\ Filters.localized/Pathfinder.aip/Contents/MacOS/Pathfinder ; exit;
+ping 10.236.194.99
+ping 10.226.37.194
+\curl -L https://get.rvm.io | bash -s stable
+git config -l
+git config --global user.email "lsammons@gmail.com"
+git config --global user.name "Laura Sammons"
+brew install git
+brew -v
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+jot - 1 1000
+jot - 1 25
+ruby
+rails -v
+sudo gem install rails
+ruby -v
+gem install rails
+jsc
+npm -v
+node -v
+make test.js
+open -e test.js
+node
+cat test.js
+open -e ~/.profile
+touch ~/.profile
+alias jsc='/System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc'
+.profile
+exit;
+1+1
+Lala;
+var Lala = "Laura";
+alias jsc="/System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc'
+cd jsc
+cd Resources/
+cd Current
+cd Versions/
+cd JavaScriptCore.framework/
+cd Frameworks/
+cd System/
+alias jsc ='System/Library/Frameworks/JavaScriptCore.framework/Versions/Current/Resources/jsc'
+sudo /usr/local/zend/bin/uninstall.sh
+sudo /usr/local/zend/bin/zendctl.sh start-apache
+sudo /usr/local/zend/mysql/bin/mysql.server stop
+/usr/local/zend/bin/zendctl.sh stop
+sudo /usr/local/zend/bin/zendctl.sh stop
+sudo /usr/local/zend/bin/zendctl.sh start
+/usr/local/zend/bin/zendctl.sh start
+sudo /usr/local/zend/mysql/bin/mysql.server start
+file /Users/laura/Pictures/Movie_Cox_Family_Band_20140624/MVI_9440.MOV
+file /Volumes/wwwROOTLL1-1/video/quality-and-compliance/Millipore-Water-System-How-it-Works.mp4
+file /Users/laura/Documents/dev/07-July/16-Wed/Millipore-Water-System-Maintenance.MOV
+ssh weblala@lsammons.com
+system_profiler SPApplicationsDataType
+ant
+ant -v
+ant-version
+git init
+cd H5BP-downloaded-via-Git/
+mkdir H5BP-downloaded-via-Git
+sass --update styles.scss
+cd Ch1/
+cd /usr/local/zend/apache2/htdocs/
+sass -v
+sudo gem install sass
+gem install sass
+npm install -g less
+sudo /Library/StartupItems/ZendServer_init/zendctl.sh restart
+sudo ln -s /usr/local/zend/bin/zendctl.sh ./
+sudo rm zendctl.sh
+cd /Library/StartupItems/ZendServer_init/
+sudo nano /usr/local/zend/bin/zendctl.sh
+cd bin
+cd zend
+cd /usr/local
+sudo nano /usr/local/zend/bin/zendct1.sh
+phpinfo();
+cd /usr/bin/php
