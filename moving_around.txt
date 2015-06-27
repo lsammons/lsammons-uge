@@ -85,7 +85,10 @@ nano example.txt
 touch example.txt
 cat example.txt
 less example.txt
+
+# homebrew is missing Apple package manager
 brew update
+
 brew doctor
 uname
 nano course-description.txt
